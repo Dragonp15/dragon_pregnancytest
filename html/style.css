@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0);
+    overflow: hidden;
+    cursor: none;
+}
+
+#pregnancy-test {
+    display: none;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#test-image {
+    width: 80%;
+}
+
+#loading-text {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#result {
+    margin-top: 10px;
+    font-size: 24px;
+    color: white;
+}
