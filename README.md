@@ -44,7 +44,9 @@ This is a simple to use test item. For now the script contains:
 - realistic test image
 - unscripted inline animation
 
-# Demo: COMING SOON
+# Demo 1: https://ibb.co/Ypzm13J
+# Demo 2: https://ibb.co/r23wY5h
+# Demo 3: https://ibb.co/cvRfWMF
 
 # Requirements
 - OX_inventory
